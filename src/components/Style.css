@@ -1,0 +1,181 @@
+.zayava {
+  margin-bottom: 6px;
+  padding: 9px 15px;
+  border: solid 1px #d4d4da;
+  border-radius: 4px;
+  font-size: 15px;
+  text-decoration: none;
+  
+}
+
+.zayava:hover {	
+  border-color:#FFCC66 #FFFF99 #FFFF99 #FFCC66;
+  border-style:solid;
+  border-width:1px;
+  background:#FFFF99;
+  }
+
+  .find-button:hover {	
+    border-color:#FFCC66 #FFFF99 #FFFF99 #FFCC66;
+    border-style:solid;
+    border-width:1px;
+    background:#FFFF99;
+    }
+
+.boba {
+  
+  margin-right: 20px;
+  font-size: 15px;
+}
+
+.boba:hover {
+  color: orangered;
+}
+
+.krishaFilter {
+  margin-left: 22px;
+  background-color: #FFCC66;
+  width: 1074px;
+  height: 105px;
+}
+
+.search-panel{
+  padding: 15px 15px 5px;
+
+}
+
+.checkbox-panel{
+  position: relative;
+    padding-left: 20px;
+}
+
+.select{
+  margin-right: 9px;
+  
+}
+
+.find-button{
+  margin-left: 10px;
+  padding: 0 14px;
+    height: 30px;
+    vertical-align: middle;
+    background-color: #fffee3;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    border: 1px solid #dfab44;
+    border-radius: 4px;
+    font-size: 14px;
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+}
+
+.find-button img {
+  
+  width: 15px;
+  height: 15px;
+  top: 3px;
+    margin-right: 3px;
+    fill: #a48c57;
+}
+
+.checki {
+  margin-top: 12px;
+  margin-right: 10px;
+}
+
+.hot-header {
+  margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    color: #f90;
+    font-size: 20px;
+}
+
+.main-body{
+  margin-left: 17px;
+}
+
+.card {
+  margin-top: 15px;
+}
+
+
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.tipoHeader{
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-color: #FFCC66;
+}
+
+.obyav_block  {
+    border-radius: 2px;
+    padding: 15px 32px;
+    border: #24252a;
+}
+
+.btn_obyav {
+    border-radius: 2px;
+    padding: 15px 32px;
+    border: #24252a;
+}
+
+.cont {
+    width: 1500px;
+    margin: 0 auto;
+    padding: 0 5px;
+
+}
+
+.logo {
+  cursor: pointer;
+  
+}
+
+.logo img {
+    width: 50%;
+}
+
+.nav__links a,
+.cta,
+.overlay__content a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: #edf0f1;
+  text-decoration: none;
+}
+
+.nav__links {
+  list-style: none;
+  display: flex;
+}
+
+.nav__links li {
+    color: black;
+  padding: 0px 20px;
+}
+
+.nav__links li a {
+    color: #6881DF    ;
+  transition: color 0.3s ease 0s;
+}
+
+.nav__links li a:hover {
+  color: #E64A19;
+}
+
+ */
